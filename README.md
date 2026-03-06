@@ -41,3 +41,8 @@ Projek ini dibangunkan menggunakan bahasa Python 3 dengan library berikut:
 
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+4. Jalankan setiap sel (cell) secara berurutan untuk melihat proses analisis.
+
+### 👩‍🔬 PENELITI
+Renata Yasmine Selomita
+Bidang Fokus: Data Analytics & Machine Learning
